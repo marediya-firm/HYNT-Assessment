@@ -58,3 +58,4 @@ npm run ios
 yarn ios
 ```
 This app is basically for crud assessment 
+I was making frequent commits so everyone could see that I’m actively coding, not just copying and pasting code.
